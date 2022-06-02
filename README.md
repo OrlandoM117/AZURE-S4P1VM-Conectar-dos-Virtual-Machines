@@ -23,7 +23,9 @@
 ![imagen 2](imagenes/2.png)
 
 **3.- Seleccionamos Azure Virtual Machine** 
+
 ![imagen 3](imagenes/3.png)
+
 
 **4.- Ahora configuramos nuestra virtual machine en este ejemplo seleccionamos la región de Australia Central seleccionamos como iso Windows 10 Pro, version 21h2-Gen2, un tamaño de Standart_DS1_v2, ingresamos credenciales para crear el inicio de sesión, y importante seleccionar al final solamente RDP para abrirlo desde una aplicación de microsoft que en los siguientes puntos tocaremos. Recordemos que para crear un recurso se necesita minimo:**
 - Suscripción
